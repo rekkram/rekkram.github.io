@@ -1,0 +1,157 @@
+body {
+    background-color: gray;
+    margin: 0px;
+    font-family: arial black;
+    font-size: 14px;
+
+}
+
+#navbar ul {
+    list-style: none;  
+    margin:0px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #0a0; 
+ 
+}
+
+   #navbar ul li
+        {
+            float: left;
+            text-align: center;
+            width: 230px;
+            margin: 0px;
+            height: 40px;
+	   
+        }
+        #navbar ul li a
+        {
+            color: #fff;
+            text-decoration: none;
+            font-family: Calibri;
+            background: #0a0;
+            display: block;
+            padding: 14px;
+            
+        }
+        #navbar ul li a:hover 
+        {
+            background: #0e0;
+            color: #000;
+        }
+        #navbar ul li ul 
+        {
+            display: none;
+            
+        }
+        #navbar ul li:hover ul 
+        {
+            display: block;
+        }
+
+.main{
+background-color: white; 
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 58px;
+margin-bottom: 0px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+
+}
+
+
+h1{
+font-size: 120%;
+color: red;
+text-align: left;
+}
+
+h2{
+font-size: 120%;
+color: darkblue;
+text-align: left;
+}
+
+.sideright{
+background-color: white; 
+margin-left: 10px; margin-right: 10px;
+margin-top: 18px; margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 105%;
+float: right;
+width: 260px;
+clear:right;
+}
+
+.imagebar{
+margin-left: 10px; margin-right: 10px;
+margin-top: 10px; margin-bottom: 0px;
+border-radius: 5px;
+height:110px;
+width: 1240px;
+}
+
+#Sign in{
+    margin: 10px;
+    text-align: center;
+
+}
+
+.Login{
+    width: 400px;
+    text-align: left;
+    background-color: white; 
+    margin-left: 410px;
+    
+    border-radius: 5px;
+    padding-top: 70px;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+}
+
+.Submit{
+    margin: 0px;
+    width: 1300px;
+    text-align: center;
+   
+}
+.Submit ul{
+            padding: 0px;
+            list-style: none;
+
+	    
+	}
+.Submit ul li
+        {
+            float: center;
+            text-align: center;
+            width: 250px;
+            margin-left: 525px;
+            margin-top: 40px;
+            height: 40px;
+	   
+        }
+        .Submit ul li a
+        {
+            color: #fff;
+            text-decoration: none;
+            font-family: Calibri;
+            background: #0a0;
+            display: block;
+            padding: 13px;
+            
+        }
+        .Submit ul li a:hover 
+        {
+            background: #0e0;
+            color: #000;
+        }
+
+
+
+	
